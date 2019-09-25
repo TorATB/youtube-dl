@@ -1,3 +1,9 @@
+My bundle of Youtube-DL with ffmpeg and registration on ytdl protocol for Windows 10.
+Install this bundle to make YT-Download entension for Opera work.
+
+
+Under are the original notes about YouTube-DL project
+
 [![Build Status](https://travis-ci.org/ytdl-org/youtube-dl.svg?branch=master)](https://travis-ci.org/ytdl-org/youtube-dl)
 
 youtube-dl - download videos from youtube.com or other video platforms
